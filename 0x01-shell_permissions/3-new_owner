@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 777 user betty
+chown -Rv betty:users hello.txt

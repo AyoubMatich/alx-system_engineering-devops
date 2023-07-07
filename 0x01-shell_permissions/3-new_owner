@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -Rv betty:users hello.txt
+chown betty hello
